@@ -28,7 +28,7 @@ _Update - Redislabs free tier drops connections very often. Recommend upgrading 
 
 Deploy the application on DigitalOcean's (DO) apps platform.
 
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://anil1kuppa/kha-ching/tree/master&refcode=50a17c5480fb)
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/cesanthosh/kha-ching//tree/master&refcode=50a17c5480fb)
 ## Environment variables
 
 > Environment variables are private setting variables that configures this application to run on your Zerodha account.
