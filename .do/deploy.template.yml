@@ -4,7 +4,7 @@ spec:
   - name: web
     github:
       repo: cesanthosh/kha-ching
-      repo_clone_url: https://github.com/cesanthosh/kha-ching/master
+      repo_clone_url: https://github.com/cesanthosh/kha-ching/tree/master
       branch: master
       deploy_on_push: false
     build_command: yarn build
