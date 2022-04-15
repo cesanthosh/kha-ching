@@ -3,7 +3,7 @@ spec:
   services:
   - name: web
     github:
-      repo: anil1kuppa/kha-ching
+      repo: cesanthosh/kha-ching
       branch: master
       deploy_on_push: false
     build_command: yarn build
