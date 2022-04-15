@@ -28,7 +28,7 @@ _Update - Redislabs free tier drops connections very often. Recommend upgrading 
 
 Deploy the application on DigitalOcean's (DO) apps platform.
 
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/cesanthosh/kha-ching/tree/master&refcode=50a17c5480fb)
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/cesanthosh/kha-ching/tree/master)
 ## Environment variables
 
 > Environment variables are private setting variables that configures this application to run on your Zerodha account.
@@ -57,7 +57,7 @@ Set it to `true` if you'd simulate orders but not actually place them on Zerodha
 
 Default lots that you trade on a regular basis. This is only the default initial value in the form and is changeable before taking the trade.
 
-for e.g. If you regularly trade `150` quantity of Nifty Options, you'd enter `2` lots here.
+for e.g. If you regularly trade `150` quantity of Nifty Options, you'd enter `3` lots here.
 
 #### `NEXT_PUBLIC_DEFAULT_SKEW_PERCENT`
 
