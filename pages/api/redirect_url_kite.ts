@@ -61,6 +61,7 @@ export default withSession(async (req, res) => {
     res.redirect('/dashboard')
   } catch (error) {
     const { response: fetchResponse } = error
+    console.log(error)
     res.status(fetchResponse?.status || 500).json(error.data)
   }
 })
